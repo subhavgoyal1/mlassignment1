@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T12:14:56.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="nu9Uc93_tdvJJn5wrBQa" type="github"><diagram id="VZtJXKsS-GUrJa_loS_O">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-28T12:18:17.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="ruP9nr5eXKZ9KZi20t4t" type="github">
+  <diagram id="xwFy7spw9Hz2rB87lVYp" name="Page-1">
+    <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xvxeSDme5p-jJuDc8yWa-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xvxeSDme5p-jJuDc8yWa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.64;exitY=0.263;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="xvxeSDme5p-jJuDc8yWa-1" target="xvxeSDme5p-jJuDc8yWa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xvxeSDme5p-jJuDc8yWa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.267;entryY=0.757;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="xvxeSDme5p-jJuDc8yWa-2" target="xvxeSDme5p-jJuDc8yWa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xvxeSDme5p-jJuDc8yWa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="xvxeSDme5p-jJuDc8yWa-2" target="xvxeSDme5p-jJuDc8yWa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xvxeSDme5p-jJuDc8yWa-2" value="CLIENT APPLICATION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xvxeSDme5p-jJuDc8yWa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="xvxeSDme5p-jJuDc8yWa-3" target="xvxeSDme5p-jJuDc8yWa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xvxeSDme5p-jJuDc8yWa-3" value="DATABASE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
